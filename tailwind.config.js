@@ -3,30 +3,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        success: '#0070f3',
-        cyan: '#79FFE1',
-      },
-      spacing: {
-        28: '7rem',
-      },
-      letterSpacing: {
-        tighter: '-.04em',
-      },
-      lineHeight: {
-        tight: 1.2,
+        'brand-yellow': '#fec700',
+        'brand-green-dark': '#007a35',
+        'brand-green-light': '#07ae03',
+        'brand-black': '#0b0608',
+        'brand-gray-dark': '#26282B',
+        'brand-gray': '#7a7d86',
+        'brand-gray-light': '#c2c4ca',
       },
       fontSize: {
-        '5xl': '2.5rem',
-        '6xl': '2.75rem',
-        '7xl': '4.5rem',
+        '7xl': '5.5rem',
         '8xl': '6.25rem',
-      },
-      boxShadow: {
-        small: '0 5px 10px rgba(0, 0, 0, 0.12)',
-        medium: '0 8px 30px rgba(0, 0, 0, 0.12)',
       },
     },
   },
