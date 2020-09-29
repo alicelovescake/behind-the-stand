@@ -13,7 +13,9 @@ As a child, Mariana used jewelry to hide deep, personal insecurities about her b
 
 Today, Mariana is a mentor in the [UBC CORE Entrepreneurship program](https://www.start.entrepreneurship.ubc.ca/).  Her mission in life is to inspire everyone to dare to live their life to the fullest!
 
-## Take-aways: Mariana's tips for entreprenuers?
+# Takeways
+
+## Mariana's tips for company-builders?
 
 1. Build your **network** and keep your contacts in an organized way so they can be a click away. 
 2. Check out **Seth Godin**, a guru in marketing. Highly recommend his book "This is Marketing" to find your tribe.
@@ -24,3 +26,7 @@ Today, Mariana is a mentor in the [UBC CORE Entrepreneurship program](https://ww
 
 1. [Glen Lee](https://www.linkedin.com/in/glenlee/): "I learned a lot from Glen".
 2. [Kyle Cheriton](https://www.linkedin.com/in/kcheriton/): "I'm super super curious to learn more about Kyle".
+
+## Want to connect with Mariana?
+
+**Mariana Konsolos:** [Website](https://www.marianakonsolos.com/) [Twitter](https://twitter.com/MarianaKonsolos) [Linkedin](https://www.linkedin.com/in/mariana-konsolos-10093611/?trk=nav_responsive_tab_profile_pic) [Youtube](https://www.youtube.com/channel/UCu3iH6RJUzLVV8R2viEslEg)
