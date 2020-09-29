@@ -22,7 +22,7 @@ Today, Mariana is a mentor in the [UBC CORE Entrepreneurship program](https://ww
 3. Reach out to people you admire. **Ask for advice**, ask for help, don't think you are too shy for them.
 4. **Say yes more often**! Afterwards ask lots of questions so you can finetune and figure out if it is right for you or not. 
 
-## Who does Mariana admire and want to hear on more on the podcast?
+## Who does Mariana admire?
 
 1. [Glen Lee](https://www.linkedin.com/in/glenlee/): "I learned a lot from Glen".
 2. [Kyle Cheriton](https://www.linkedin.com/in/kcheriton/): "I'm super super curious to learn more about Kyle".
