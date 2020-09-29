@@ -2,10 +2,10 @@ const Signup = () => {
   return (
     <>
       <form
-        action="https://buttondown.email/api/emails/embed-subscribe/weubc"
+        action="https://buttondown.email/behind-the-stand"
         method="post"
         target="popupwindow"
-        onSubmit={() => window.open('https://buttondown.email/weubc', 'popupwindow')}
+        onSubmit={() => window.open('https://buttondown.email/behind-the-stand', 'popupwindow')}
         className="font-bold text-xl md:text-2xl"
       >
         <label htmlFor="bd-email">Subscribe to get the latest wisdom bomb in your inbox</label>
