@@ -22,7 +22,7 @@ console.log(textColor, dark);
     <div className={`flex space-x-4 ${textColor}`}>
       <ListenOnLink dark={dark} Icon={FaSpotify} place="Spotify" url="https://open.spotify.com/show/1EofHBCAjBrn9BMykQklPM" />
       <ListenOnLink dark={dark} Icon={SiPocketcasts} place="Pocket Casts" url="https://pca.st/ex6fxdsk" />
-      <ListenOnLink dark={dark} Icon={SiApplepodcasts} place="Apple" url="https://podcasts.apple.com/ca/podcast/we-ubc/id1531947035" />
+      <ListenOnLink dark={dark} Icon={SiApplepodcasts} place="Apple" url="https://podcasts.apple.com/ca/podcast/behind-the-stand/id1531947035" />
     </div>
   )
 }

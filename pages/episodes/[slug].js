@@ -89,8 +89,7 @@ export default function Post({ episode, moreEpisodes }) {
                 </p>
 
                 <p>
-                  I created Behind the Stand because I was inspired by my mentors and peers
-                  in the <a className="text-brand-yellow font-bold hover:text-white duration-150 ease-in transform" href="https://www.start.entrepreneurship.ubc.ca/">e@UBC</a> program.
+                  I created Behind the Stand because I was inspired by entreprenuers in the Vancouver community and beyond.
                 </p>
 
                 <p>

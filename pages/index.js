@@ -23,11 +23,11 @@ export default function Index({ allEpisodes }) {
 
             <div className="pt-40">
               <h1 className="text-brand-yellow text-7xl font-bold">
-                When life gives you lemons.
+                When life gives you lemons
               </h1>
 
               <p className="text-3xl mb-20">
-                Stories of grit, success, and failure from humans behind the lemonade stand.
+                Stories of grit, success, and failure from people behind great ventures.
               </p>
 
               <ListenOn />
