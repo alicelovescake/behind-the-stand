@@ -30,7 +30,6 @@ export default function Meta() {
         name="description"
         content={`A podcast highlighting stories of grit, failure & passion from behind the lemonade stand.`}
       />
-      <meta property="og:image" content="/assets/og.png" />
     </Head>
   )
 }

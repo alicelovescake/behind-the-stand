@@ -16,3 +16,28 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown a {
+  @apply text-brand-green-dark font-bold;
+}
+
+.markdown a:hover {
+  @apply text-brand-green-light;
+}
+
+.markdown ul,
+.markdown ol {
+  @apply px-5;
+}
+
+.markdown ul ul {
+  @apply my-0;
+}
+
+.markdown ul li {
+  @apply list-disc;
+}
+
+.markdown ol li {
+  @apply list-decimal;
+}

@@ -22,6 +22,15 @@ export default function Post({ episode, moreEpisodes }) {
   return (
     <>
       <Layout>
+        <Head>
+          <title>{episode.title} | Behind the Stand</title>
+
+          <meta
+            property="og:image"
+            content={`/assets/episodes/${episode.slug}/og.png`}
+          />
+        </Head>
+
         <header className="bg-brand-gray-dark px-40 pb-10">
           <Nav withListenOn />
 
@@ -48,15 +57,6 @@ export default function Post({ episode, moreEpisodes }) {
         </header>
 
         <article className="py-20 bg-white text-brand-gray-dark min-h-screen">
-          <Head>
-            <title>{episode.title} | Behind the Stand</title>
-
-            <meta
-              property="og:image"
-              content={`/assets/episodes/${episode.slug}/og.png`}
-            />
-          </Head>
-
           <Container>
             <iframe
               src={episode.embed}

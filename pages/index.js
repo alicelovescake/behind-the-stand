@@ -15,6 +15,7 @@ export default function Index({ allEpisodes }) {
       <Layout>
         <Head>
           <title>Behind the Stand</title>
+          <meta property="og:image" content="/assets/og.png" />
         </Head>
 
         <header className="w-full bg-brand-gray-dark pb-40 px-40 text-brand-gray-light relative mb-64">
