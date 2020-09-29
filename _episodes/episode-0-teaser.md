@@ -6,7 +6,7 @@ guestLinkedIn: 'https://www.linkedin.com/in/alicezhao1991/'
 venture: 'Behind the Stand'
 excerpt: 'Introducing Behind the Stand, a new podcast highlighting stories of grit, failures, lessons from entrepreneurs in pocket-sized 20 min episodes.'
 date: '2020-09-15'
-embed: 'https://open.spotify.com/embed-podcast/episode/35aB6xfcuD1gcKeCcDgh6V'
+embed: 'https://anchor.fm/behindthestand/embed/episodes/Episode-0-Teaser-ejiuvo'
 ---
 
 Welcome to Behind the Stand! 
