@@ -29,4 +29,4 @@ Today, Mariana is a mentor in the [UBC CORE Entrepreneurship program](https://ww
 
 ## Want to connect with Mariana?
 
-**Mariana Konsolos:** [Website](https://www.marianakonsolos.com/) [Twitter](https://twitter.com/MarianaKonsolos) [Linkedin](https://www.linkedin.com/in/mariana-konsolos-10093611/?trk=nav_responsive_tab_profile_pic) [Youtube](https://www.youtube.com/channel/UCu3iH6RJUzLVV8R2viEslEg)
+[Website](https://www.marianakonsolos.com/) | [Twitter](https://twitter.com/MarianaKonsolos) | [Linkedin](https://www.linkedin.com/in/mariana-konsolos-10093611/?trk=nav_responsive_tab_profile_pic) | [Youtube](https://www.youtube.com/channel/UCu3iH6RJUzLVV8R2viEslEg)

@@ -32,4 +32,4 @@ Today, Melissa has a new venture [eWebinar](https://ewebinar.com/). eWebinar's m
 
 ## Want to connect with Melissa?
 
-**Melissa Kwan:** [Website](https://ewebinar.com/story) [Twitter](https://twitter.com/msskwan?lang=en) [Linkedin](https://www.linkedin.com/in/melissakwan/)
+[Website](https://ewebinar.com/story) | [Twitter](https://twitter.com/msskwan?lang=en) | [Linkedin](https://www.linkedin.com/in/melissakwan/)

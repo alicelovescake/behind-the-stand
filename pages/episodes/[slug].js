@@ -31,11 +31,11 @@ export default function Post({ episode, moreEpisodes }) {
           />
         </Head>
 
-        <header className="bg-brand-gray-dark px-40 pb-10">
+        <header className="bg-brand-gray-dark px-4 lg:px-40 pb-10">
           <Nav withListenOn />
 
           <div className="mt-40">
-            <h1 className="text-6xl font-bold text-brand-yellow">
+            <h1 className="text-5xl md:text-6xl font-bold text-brand-yellow">
               {episode.title}
             </h1>
           </div>
@@ -61,10 +61,11 @@ export default function Post({ episode, moreEpisodes }) {
             <iframe
               src={episode.embed}
               width="100%"
-              height="232"
               frameborder="0"
               allowtransparency="true"
               allow="encrypted-media"
+              scrolling="no"
+              className="rounded-b"
             ></iframe>
 
             <div className="max-w-3xl mx-auto flex justify-center mt-4">
@@ -78,7 +79,7 @@ export default function Post({ episode, moreEpisodes }) {
               />
             </div>
 
-            <div className="max-w-3xl mx-auto bg-brand-black rounded-lg p-8 text-white mt-40 flex space-x-8 items-center">
+            <div className="max-w-3xl mx-auto bg-brand-black rounded-lg p-8 text-white mt-20 md:mt-40 flex flex-col md:flex-row space-y-8 md:space-y-0 md:space-x-8 items-center">
               <img className="w-48 h-48 rounded-lg" src="/assets/profile.png" />
 
               <div className="space-y-4">

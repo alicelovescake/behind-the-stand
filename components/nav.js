@@ -11,7 +11,9 @@ export default function Nav({ withListenOn }) {
         </a>
       </Link>
 
-      {withListenOn && <ListenOn />}
+      <div className="hidden md:block">
+        {withListenOn && <ListenOn />}
+      </div>
     </nav>
   )
 }

@@ -18,16 +18,16 @@ export default function Index({ allEpisodes }) {
           <meta property="og:image" content="/assets/og.png" />
         </Head>
 
-        <header className="w-full bg-brand-gray-dark pb-40 px-40 text-brand-gray-light relative mb-64">
+        <header className="w-full bg-brand-gray-dark pb-40 px-4 lg:px-40 text-brand-gray-light relative mb-64">
           <div className="relative z-20 h-full">
             <Nav />
 
-            <div className="pt-40">
-              <h1 className="text-brand-yellow text-7xl font-bold">
+            <div className="mt-20 pt-64 md:mt-0 md:pt-40">
+              <h1 className="text-brand-yellow text-5xl md:text-7xl font-bold">
                 When life gives you lemons
               </h1>
 
-              <p className="text-3xl mb-20">
+              <p className="text-2xl md:text-3xl mb-10 md:mb-20">
                 Stories of grit, success, and failure from people behind great ventures.
               </p>
 
@@ -35,7 +35,7 @@ export default function Index({ allEpisodes }) {
             </div>
           </div>
 
-          <div className="hero-image min-h-screen rounded-lg w-1/3 bg-cover bg-no-repeat bg-center absolute top-0 right-0 mr-20 mt-0">
+          <div className="hero-image min-h-screen rounded-lg w-full md:w-1/2 lg:w-1/3 bg-cover bg-no-repeat bg-center absolute top-0 right-0 md:mr-20 mt-0">
             <div className="circle-bg w-56 h-56 absolute top-0 mt-10 z-10 rounded-lg"></div>
           </div>
 
@@ -43,7 +43,7 @@ export default function Index({ allEpisodes }) {
         </header>
 
         <Container>
-          <div className="grid grid-cols-3 gap-16 py-40 relative">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 pb-20 md:py-40 relative">
             <div className="circle-bg-black w-40 h-40 absolute top-0 left-0 -ml-20 mt-20 opacity-50 rounded-lg"></div>
             {allEpisodes.map(episode => <EpisodeCard episode={episode} />)}
           </div>
