@@ -13,7 +13,7 @@ As a child, Mariana used jewelry to hide deep, personal insecurities about her b
 
 Today, Mariana is a mentor in the [UBC CORE Entrepreneurship program](https://www.start.entrepreneurship.ubc.ca/).  Her mission in life is to inspire everyone to dare to live their life to the fullest!
 
-# Takeways
+# Takeways 🎉
 
 ## Mariana's tips for company-builders?
 
