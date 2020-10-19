@@ -1,6 +1,6 @@
 ---
 number: '2'
-title: 'From bankruptcy to Success'
+title: 'From bankruptcy to success'
 guest: 'Melissa Kwan'
 guestLinkedIn: 'https://www.linkedin.com/in/melissakwan/'
 venture: 'eWebinar'
