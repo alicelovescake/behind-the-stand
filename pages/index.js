@@ -1,14 +1,14 @@
-import { getAllEpisodes } from '../lib/api'
-import Head from 'next/head'
+import { getAllEpisodes } from "../lib/api";
+import Head from "next/head";
 
-import Container from '../components/container'
-import Layout from '../components/layout'
-import Nav from '../components/nav'
-import ListenOn from '../components/listen-on'
-import EpisodeCard from '../components/episode-card'
+import Container from "../components/container";
+import Layout from "../components/layout";
+import Nav from "../components/nav";
+import ListenOn from "../components/listen-on";
+import EpisodeCard from "../components/episode-card";
 
 export default function Index({ allEpisodes }) {
-  const latestEpisode = allEpisodes[0]
+  const latestEpisode = allEpisodes[0];
 
   return (
     <>
@@ -28,7 +28,8 @@ export default function Index({ allEpisodes }) {
               </h1>
 
               <p className="text-2xl md:text-3xl mb-10 md:mb-20">
-                Stories of grit, success, and failure from people behind great ventures.
+                A podcast about grit, failure & passion from humans that took
+                lemons and made successful lemonade stands.
               </p>
 
               <ListenOn />
@@ -45,7 +46,9 @@ export default function Index({ allEpisodes }) {
         <Container>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 pb-20 md:py-40 relative">
             <div className="circle-bg-black w-40 h-40 absolute top-0 left-0 -ml-20 mt-20 opacity-50 rounded-lg"></div>
-            {allEpisodes.map(episode => <EpisodeCard episode={episode} />)}
+            {allEpisodes.map((episode) => (
+              <EpisodeCard episode={episode} />
+            ))}
           </div>
         </Container>
       </Layout>
@@ -64,32 +67,31 @@ export default function Index({ allEpisodes }) {
           background-color: #0b0608;
           background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23c2c4ca' fill-opacity='0.29' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='3'/%3E%3Ccircle cx='13' cy='13' r='3'/%3E%3C/g%3E%3C/svg%3E");
         }
-        
-        
+
         header .hero-image .circle-bg {
           right: 32rem;
         }
 
         .hero-image {
-          background-image: url('/assets/hero-woman-bw.png');
+          background-image: url("/assets/hero-woman-bw.png");
         }
       `}</style>
     </>
-  )
+  );
 }
 
 export async function getStaticProps() {
   const allEpisodes = getAllEpisodes([
-    'title',
-    'date',
-    'slug',
-    'excerpt',
-    'guest',
-    'venture',
-    'number',
-  ])
+    "title",
+    "date",
+    "slug",
+    "excerpt",
+    "guest",
+    "venture",
+    "number",
+  ]);
 
   return {
     props: { allEpisodes },
-  }
+  };
 }
