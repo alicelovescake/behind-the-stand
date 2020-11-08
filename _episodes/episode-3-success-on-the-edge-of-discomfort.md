@@ -31,4 +31,4 @@ Accept ambiguity. Own it and make things happen for yourself! Don't expect a str
 
 ## Want to connect with Jason?
 
-[Website](https://klue.com/about) | [Linkedin](https://www.linkedin.com/in/onemoresmith/)
+[Website](https://klue.com/about) | [Linkedin](https://www.linkedin.com/in/onemoresmith/) | [Email](mailto:jason@klue.com)

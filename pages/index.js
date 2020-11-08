@@ -27,7 +27,7 @@ export default function Index({ allEpisodes }) {
                 When life gives you lemons
               </h1>
 
-              <p className="text-2xl md:text-3xl mb-10 md:mb-20">
+              <p className="text-2xl md:text-3xl mb-10 md:mb-20 max-w-6xl">
                 A podcast about grit, failure & passion from humans that took
                 lemons and made successful lemonade stands.
               </p>
