@@ -86,15 +86,29 @@ export default function Post({ episode, moreEpisodes }) {
                 <p>Hey! 👋</p>
 
                 <p>
-                  I'm <a className="text-brand-yellow font-bold hover:text-white duration-150 ease-in transform" href="https://www.linkedin.com/in/alicezhao1991/">Alice</a>, a computer science student studying at UBC.
+                  I'm{" "}
+                  <a
+                    className="text-brand-yellow font-bold hover:text-white duration-150 ease-in transform"
+                    href="https://www.linkedin.com/in/alicezhao1991/"
+                  >
+                    Alice
+                  </a>
+                  , a computer science student studying at UBC.
                 </p>
 
                 <p>
-                  I created Behind the Stand because I was inspired by entreprenuers in the Vancouver community and beyond.
+                  I created Behind the Stand because I was inspired by
+                  entrepreneurs in the Vancouver community and beyond.
                 </p>
 
                 <p>
-                  <a className="text-brand-yellow font-bold hover:text-white duration-150 ease-in transform" href="mailto:azhao991@gmail.com">Let me know</a> if there is anything you'd like to hear!
+                  <a
+                    className="text-brand-yellow font-bold hover:text-white duration-150 ease-in transform"
+                    href="mailto:azhao991@gmail.com"
+                  >
+                    Let me know
+                  </a>{" "}
+                  if there is anything you'd like to hear!
                 </p>
               </div>
             </div>
