@@ -1,12 +1,12 @@
 ---
 number: "4"
-title: "Finding Your First VC Fund"
+title: "Finding Your First VC"
 guest: "Jay Rhind"
 guestLinkedIn: "https://www.linkedin.com/in/jayrhind/"
 venture: "Rhino Ventures"
 excerpt: "From a Cherry Coke empire to venture capital, Jay is a partner at Rhino Ventures who invests in high growth, early stage companies in Western Canada."
 date: "2021-01-26"
-embed: "https://anchor.fm/behindthestand/embed/episodes/Finding-Your-First-VC-Fund-epdfsd"
+embed: "https://anchor.fm/behindthestand/embed/episodes/Finding-Your-First-VC-epdfsd"
 ---
 
 Jay is a previous entrepreneur and current partner at Rhino Ventures who invests in high growth, early stage companies in Western Canada. Backing successful companies like Klue (check out our conversation with [Jason, the CEO of Klue](https://behindthestand.com/episodes/episode-3-success-on-the-edge-of-discomfort)), [Thinkific](https://www.thinkific.com/), and [Article](https://www.article.com/), Jay is passionate about helping promising startups grow.
