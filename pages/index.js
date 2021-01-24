@@ -28,8 +28,8 @@ export default function Index({ allEpisodes }) {
               </h1>
 
               <p className="text-2xl md:text-3xl mb-10 md:mb-20 max-w-6xl">
-                A podcast about grit, failure & passion from humans that took
-                lemons and made successful lemonade stands.
+                A podcast about grit, failure & passion from humans behind great
+                ventures who took lemons and made successful lemonade stands.
               </p>
 
               <ListenOn />

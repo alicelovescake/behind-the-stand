@@ -1,5 +1,5 @@
-import Container from './container'
-import Signup from './signup'
+import Container from "./container";
+import Signup from "./signup";
 
 export default function Footer() {
   return (
@@ -7,8 +7,11 @@ export default function Footer() {
       <Container>
         <div className="py-10 md:py-20">
           <h3 className="text-4xl lg:text-5xl font-bold mb-8">
-            <a className="hover:text-brand-yellow duration-150 ease-in transform text-white" href="mailto:azhao991@gmail.com">
-              Let me know what you want to hear!
+            <a
+              className="hover:text-brand-yellow duration-150 ease-in transform text-white"
+              href="mailto:azhao991@gmail.com"
+            >
+              Want more inspiring insights from real entreprenuers?
             </a>
           </h3>
 
@@ -16,5 +19,5 @@ export default function Footer() {
         </div>
       </Container>
     </footer>
-  )
+  );
 }

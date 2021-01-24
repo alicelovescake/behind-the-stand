@@ -9,15 +9,15 @@ date: "2020-11-10"
 embed: "https://anchor.fm/behindthestand/embed/episodes/Success-On-The-Edge-of-Discomfort-Jason-Smith-em71k6"
 ---
 
-From quitting his corner office job at Vision Critical to splurging on around the world tickets with his family, to fundraising over \$19 million dollars, Jason is no stranger to making big moves.
+From quitting his corner office job at Vision Critical to splurging on around the world tickets with his family, to fundraising over $19 million dollars, Jason is no stranger to making big moves.
 
 A 5 time serial entrepreneur, Jason started off by making double digit millions when he and his co-founders sold their bootstrapped venture to Telus in their twenties!
 
 Today, Jason is taking destiny into his own hands as the co-founder of [Klue](https://klue.com/), an AI-powered competiitove enablement startup. Klue is backed by the best ventures and angels including Rhino ventures, Craft Ventures & Ryan Holmes (hootsuite). It also has customers from the likes of large enterprises like Cisco, Shopify, SAP and SurveyMonkey!
 
-Tune in to hear the advice Jason has to share on how first time entreprenuers can achieve success on the edge of discomfort!
+Tune in to hear the advice Jason has to share on how first time entrepreneurs can achieve success on the edge of discomfort!
 
-# Takeways 🎉
+# Takeaways 🎉
 
 ## Jason's tips for company-builders?
 
