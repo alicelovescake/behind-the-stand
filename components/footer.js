@@ -11,7 +11,7 @@ export default function Footer() {
               className="hover:text-brand-yellow duration-150 ease-in transform text-white"
               href="mailto:azhao991@gmail.com"
             >
-              Want more inspiring insights from real entreprenuers?
+              Want inspiring insights from real entreprenuers?
             </a>
           </h3>
 
