@@ -18,4 +18,4 @@ Each story you'll hear is:
 
 So let our entrepreneurs fill your cup with wisdom! 💡
 
-Check out the latest episode at [Behind the Stand](https://behindthestand.com/)
+Check out the latest episode at [Behind the Stand](https://behindthestand.com/) 🎉
